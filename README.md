@@ -28,5 +28,4 @@ Copyright (c) 2013 Mick Grierson, Matthew Yee-King, Marco Gillies for the Maxim 
 Processing.js is licensed under the MIT License, see LICENSE.
 
 
-
 A web version of the application can be found in: http://idontdomath.com.ar/flat.theremin.v.0.1/
